@@ -88,21 +88,8 @@ git clone https://github.com/<your-username>/<your-repo>.git
 
 ---
 
-## 五、关键词索引（SEO 友好）
 
-为方便搜索引擎与用户检索，以下为本实录涉及的核心关键词：
-
-**主体词**：梁文锋四小时投资人会议实录、梁文锋投资人会议、DeepSeek 投资者交流会、DeepSeek 创始人梁文锋、DeepSeek 录音文字稿、梁文锋讲话实录
-
-**技术话题词**：AGI 通用人工智能、持续学习 Continuous Learning、思维链 CoT、Agent 智能体、具身智能、Scaling Law、多模态、Coding Agent、DeepSeek V3、DeepSeek V4、GCV4、150B 激活参数
-
-**算力与芯片词**：中美 AI 算力差距、英伟达 H 系列、英伟达 GB200、英伟达 GB300、华为 950、华为昇腾、TileLang、CUDA 生态、国产 AI 芯片、超节点
-
-**商业与组织词**：DeepSeek 开源策略、DeepSeek 商业化、API 定价、十个月回本、DeepSeek 团队、AGI 组织管理、DeepSeek 融资、AI 创业公司
-
----
-
-## 六、免责声明与版权说明
+## 五、免责声明与版权说明
 
 - 本文字稿由语音识别自动转写并经 AI 整理，**未区分说话人**，个别专有名词与数字可能存在识别误差，请以原录音为准。
 - 本仓库仅作为**信息归档与学术讨论**用途公开发布，不构成任何投资建议。
@@ -110,7 +97,7 @@ git clone https://github.com/<your-username>/<your-repo>.git
 
 ---
 
-## 七、Star 与分享
+## 六、Star 与分享
 
 如果你觉得这份**梁文锋四小时投资人会议实录**对你有帮助，欢迎：
 
